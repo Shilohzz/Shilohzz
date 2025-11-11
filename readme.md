@@ -25,21 +25,19 @@
 
 ### 💻 Sobre mí
 
-<div align="center">
-  <img src="IMG/WME8.gif" alt="" width="150px">
-</div>
-> Soy un **Desarrollador Back-End Junior** con una sólida base en **Python** y experiencia en el diseño y la implementación de APIs RESTful. Me enfoco en escribir código limpio, eficiente y bien documentado, priorizando la **escalabilidad** y el rendimiento.
+
+> Soy un **Desarrollador Back-End Junior** con una sólida base en **Python, JavaScript y MongoDB** y experiencia en el diseño y la implementación de RestApis. Me enfoco en escribir código limpio, eficiente y bien documentado, priorizando la **escalabilidad** y el rendimiento que brinda cada una de mis experiencias web.
 >
-> Tengo experiencia trabajando con metodologías ágiles como **Scrum** y estoy en constante búsqueda de optimizar procesos con herramientas de gestión como **Git** y **ClickUp**. Mi objetivo es crecer profesionalmente en un entorno que valore la innovación y el buen desarrollo de software.
+> Cuento con muy buenas bases para trabajar con metodologías ágiles como **Scrum** y estoy en constante búsqueda de optimizar procesos con herramientas de gestión como **Github** y **ClickUp**. Mi objetivo es crecer profesionalmente en un entorno que valore la innovación y el desarrollo de software.
 >
-> 🚀 **Mi stack principal:** Python, MongoDB, MySQL.
+> 🚀 **Mi stack principal:** Python, MongoDB, JavaScript.
 
 ---
 
 ### ✨ Proyectos Destacados
 
 <div align="center">
-  ^w^
+  <img src="IMG/f86d7efa404c117f5d224ea37fe29d95_w200.gif" alt="" width="150px">
 </div>
 <details open>
 <summary><strong>Ver Proyectos</strong></summary>
@@ -47,8 +45,8 @@
 
 | Nombre del Proyecto | Descripción | Tecnologías Clave | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Plataforma de E-Commerce API (Inventado)** | API Back-End robusta para una tienda en línea. Maneja la autenticación de usuarios, gestión de inventario, procesamiento de pedidos y pasarelas de pago. Diseñado siguiendo principios REST. | **Python, Django/Flask, MySQL, JWT** | [Ver Repositorio](https://github.com/Shilohzz/ecommerce-api) |
-| **Sistema de Tareas & Colaboración (Inventado)** | Aplicación de gestión de tareas que permite la creación de proyectos, asignación de tareas a diferentes usuarios y seguimiento de progreso. Incluye sockets para notificaciones en tiempo real. | **Python, MongoDB, JavaScript, Scrum** | [Ver Repositorio](https://github.com/Shilohzz/task-management-app) |
+| **Gestor de Gastos Financieros** | Desarrollé un Gestor de Gastos Personales utilizando Python. El aplicativo permite a los usuarios registrar y clasificar gastos financieros con granularidad diaria, semanal, mensual y anual. Cada registro incluye una descripción detallada y la fecha de realización. Implementé persistencia de datos mediante el uso del formato JSON para asegurar el almacenamiento y la recuperación eficiente de la información. | **Python, JSON** | [Ver Repositorio](https://github.com/Shilohzz/Proyecto_Python_Bare-oJuan.git) |
+| **Juego de Cartas** | Desarrollé un juego de mesa interactivo utilizando JavaScript. El proyecto se centró en el consumo de una REST API externa para la gestión y provisión de mazos de cartas de póker reales. Esta experiencia me permitió aplicar y consolidar conocimientos en el diseño de la lógica del juego y la integración de servicios web. | **HTML, CSS, RestAPI JavaScript** | [Ver Repositorio](https://shilohzz.github.io/JavaScript_S2_BarenoJuan/Dia10) |
 
 </details>
 
@@ -56,9 +54,7 @@
 
 ### 🏅 Competencias Blandas (Soft Skills)
 
-<div align="center">
-  <img src="IMG/os1aijnsbor71.gif" alt="Personaje Retro Animado 3" width="50px" style="margin-right: 10px;">
-</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Aprendizaje_Rápido-AAB7B8?style=for-the-badge&logo=star&logoColor=black" alt="Aprendizaje Rápido" />
   <img src="https://img.shields.io/badge/Resolución_de_Problemas-F4D03F?style=for-the-badge&logo=checkmark&logoColor=black" alt="Resolución de Problemas" />
@@ -71,7 +67,7 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  <img src="IMG/f86d7efa404c117f5d224ea37fe29d95_w200.gif" alt="" width="150px">
+  <img src="IMG/WME8.gif" alt="" width="150px">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -92,9 +88,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="IMG/d7c4jpy-59eb9fe0-e278-474c-a273-32cf5..." alt="Personaje Retro Animado 1" width="50px" style="margin-right: 10px;">
-</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shilohzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
   <br/>
