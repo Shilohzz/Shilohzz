@@ -26,7 +26,7 @@
 ### 💻 Sobre mí
 
 
-> Soy un **Desarrollador Back-End Junior** con una sólida base en **Python, JavaScript y MongoDB** y experiencia en el diseño y la implementación de RestApis. Me enfoco en escribir código limpio, eficiente y bien documentado, priorizando la **escalabilidad** y el rendimiento que brinda cada una de mis experiencias web.
+> Soy un **Desarrollador Back-End Junior** con una sólida base en **Python, JavaScript y MongoDB**. Cuento con experiencia en el diseño y la implementación de RestApis. Me enfoco en escribir código limpio, eficiente y bien documentado, priorizando la **escalabilidad** y el rendimiento que brinda cada una de mis experiencias web.
 >
 > Cuento con muy buenas bases para trabajar con metodologías ágiles como **Scrum** y estoy en constante búsqueda de optimizar procesos con herramientas de gestión como **Github** y **ClickUp**. Mi objetivo es crecer profesionalmente en un entorno que valore la innovación y el desarrollo de software.
 >
