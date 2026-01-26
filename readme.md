@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/Shilohzz">
-    <img src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://www.linkedin.com/in/juan-pablo-bare%C3%B1o-170102321/)" alt="GitHub Badge"/>
+    <img src=<img src="https://github.com/Shilohzz?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://linkedin.com/in/tu-perfil-de-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -96,4 +96,5 @@
 </div>
 
 ---
+
 
