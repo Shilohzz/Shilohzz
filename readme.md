@@ -89,6 +89,10 @@
 
 ### 📊 GitHub Stats
 
-![Estadísticas de Shilohzz](https://github-readme-stats.vercel.app/api?username=Shilohzz&show_icons=true&theme=dark)
-![Lenguajes de Shilohzz](https://github-readme-stats.vercel.app/api/top-langs/?username=Shilohzz&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats-one.vercel.app/api?username=Shilohzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <br/>
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Shilohzz&layout=compact&theme=dark" alt="Lenguajes Principales" />
+</div>
+
 
