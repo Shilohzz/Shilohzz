@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/juan-pablo-bare%C3%B1o-170102321/">
+  <a href="https://github.com/Shilohzz">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/juan-pablo-bare%C3%B1o-170102321/">
@@ -15,7 +15,7 @@
   <a href="mailto:barenojuan619@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://shilohzz.github.io/Portafolio_S2_BarenoJuan/">
+  <a href="https://shilohzz.github.io/Portafolio_Personal/">
     <img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
@@ -45,14 +45,18 @@
 
 | Nombre del Proyecto | Descripción | Tecnologías Clave | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Gestor de Gastos Financieros** | Desarrollé un Gestor de Gastos Personales utilizando Python. El aplicativo permite a los usuarios registrar y clasificar gastos financieros con granularidad diaria, semanal, mensual y anual. Cada registro incluye una descripción detallada y la fecha de realización. Implementé persistencia de datos mediante el uso del formato JSON para asegurar el almacenamiento y la recuperación eficiente de la información. | **Python, JSON** | [Ver Repositorio](https://github.com/Shilohzz/Proyecto_Python_Bare-oJuan.git) |
-| **Juego de Cartas** | Desarrollé un juego de mesa interactivo utilizando JavaScript. El proyecto se centró en el consumo de una REST API externa para la gestión y provisión de mazos de cartas de póker reales. Esta experiencia me permitió aplicar y consolidar conocimientos en el diseño de la lógica del juego y la integración de servicios web. | **HTML, CSS, RestAPI JavaScript** | [Ver Repositorio](https://shilohzz.github.io/JavaScript_S2_BarenoJuan/Dia10) |
+| **Gestión de bodegas (Logitrack)** | Diseño y desarrollo de una plataforma logística para la gestión integral de inventarios, bodegas y trazabilidad de mercancías. Implementación de un robusto sistema de seguridad basado en JWT (JSON Web Tokens) y cifrado de datos para garantizar un control de acceso y gestión de información totalmente seguros y eficaces. | **Java, SpringBoot, Spring Security / JWT, MySQL, TOMCAT, HTML, CSS, JavaScript** | [Ver Repositorio](https://github.com/Shilohzz/Logitrack_GestionDeBodegas_.git) |
+| **Sistema de Ventas Tecnológicas (TecnoStore)** | Sistema de gestión para una tienda de tecnología desarrollado bajo el patrón de diseño MVC (Modelo-Vista-Controlador) y arquitectura de persistencia DAO. El sistema permite gestionar el inventario de dispositivos, clientes, empleados y el procesamiento de ventas mediante transacciones SQL. | **Java, MySQL, RestAPI JavaScript** | [Ver Repositorio](https://github.com/Shilohzz/Sistema_De_Ventas_TecnoStore.git) |
 
 </details>
 
 ---
 
 ### 🏅 Competencias Blandas (Soft Skills)
+
+<div align="center">
+  <img src="IMG/c6beb86a517fada8fd8928684f5552ba.gif" alt="Banner" width="450px">
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Aprendizaje_Rápido-AAB7B8?style=for-the-badge&logo=star&logoColor=black" alt="Aprendizaje Rápido" />
@@ -66,10 +70,9 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  <img src="IMG/c6beb86a517fada8fd8928684f5552ba.gif" alt="Banner" width="450px">
-</div>
-
-<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Tomcat" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
