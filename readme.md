@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="IMG/c6beb86a517fada8fd8928684f5552ba.gif" alt="Banner" width="450px">
   <h1>Juan Pablo Bareño Sierra</h1>
   <h2>Desarrollador Back-End Junior | Apasionado por la eficiencia y la escalabilidad</h2>
 </div>
@@ -67,7 +66,7 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  <img src="IMG/WME8.gif" alt="Tecnologías" width="150px">
+  <img src="IMG/c6beb86a517fada8fd8928684f5552ba.gif" alt="Banner" width="450px">
 </div>
 
 <div align="center">
